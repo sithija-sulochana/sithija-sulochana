@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<h3 align="center">Undergraduate Student | Aspiring Software Engineer and Development</h3>
+<h3 align="center">Undergraduate Student | Aspiring Software Engineering and Development works</h3>
 
   
   <a href="[https://www.instagram.com/shwetang_singh/](https://www.instagram.com/sithijasulochana/)">Instagram</a> •

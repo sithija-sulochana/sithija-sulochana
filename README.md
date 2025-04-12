@@ -46,7 +46,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithija-sulochana&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="[https://github.com/Davekibh](https://github.com/sithija-sulochana)">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithija-sulochana&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
